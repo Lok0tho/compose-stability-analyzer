@@ -37,6 +37,8 @@ This plugin provides real-time visual feedback about your composables' stability
 - **3. Inline Parameter Hints**: Badges next to parameters showing their stability status.
 - **4. Code Inspections**: Quick fixes and warnings for unstable composables.
 
+> **Note**: You don’t need to make every composable function skippable or all parameters stable, these are not direct indicators of performance optimization. The goal of this plugin isn’t to encourage over-focusing on stability, but rather to help you explore how Compose’s stability mechanisms work and use them as tools for examining and debugging composables that may have performance issues.
+
 ### How to Install in Android Studio
 
 You can download the Compose Stability Analyzer Plugin with the steps below:
